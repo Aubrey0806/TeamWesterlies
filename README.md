@@ -36,7 +36,8 @@ Here are the detailed description of each feature:
 | Landuse |      1     |  1/3 |  0.2
 | Slope |      3     |  1 |  0.2
 | Elevation |      5     |  5 |  1
-Table 1. Weight matrix for analytical hierarchy process
+
+Table 1. _Weight matrix for analytical hierarchy process_
 
 
 

@@ -49,6 +49,7 @@ Here are the detailed description of each feature:
 
 ## Data Sets
      |    Data Source   |      Data files      |  Data Format
+     |----------|-------------|------|------|
      |    City of Abbotsford Open Data   |      City boundary      |  Shapefile 
      |    BC Open Data Catalogue   |      Digital Elevation Model      |  Raster file 
      |    City of Abbotsford Open Data   |      Population data     |  Shapefile 
@@ -57,7 +58,7 @@ Here are the detailed description of each feature:
      |    BC Open Data Catalogue   |      Coastal water and river     |  Shapefile 
      |    City of Abbotsford Open Data   |      Abbostford community planning data      |  Shapefile
      
-     Table 3. _Datasource and Metadata_
+    Table 3. _Datasource and Metadata_
      
      
 

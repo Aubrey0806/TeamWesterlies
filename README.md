@@ -48,7 +48,208 @@ Here are the detailed description of each feature:
 - **Software:** Arcmap desktop 10.8 is used to perform data processing, AHP and MCE analysis. ArcGIS online is used to create the web app and story map. Procreate is used for logo design.
 
 ## Data Sets
-  
+  <table class="a0" border="1" cellspacing="0" cellpadding="0" width="864" style="margin-left:41.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+ border:none;mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:
+ 5.0pt 5.0pt 5.0pt 5.0pt;mso-border-insideh:1.0pt solid black;mso-border-insidev:
+ 1.0pt solid black">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+  <td width="296" valign="top" style="width:147.75pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:12.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Data
+  Source<o:p></o:p></span></b></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:12.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Data
+  files<o:p></o:p></span></b></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:12.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Data
+  Format<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:1">
+  <td width="296" valign="top" style="width:147.75pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">City of Abbotsford Open Data<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">City boundary<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span class="SpellE"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Shapefile</span></span><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"> <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2">
+  <td width="296" valign="top" style="width:147.75pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">BC Open Data Catalogue<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Digital Elevation Model<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Raster file <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3">
+  <td width="296" valign="top" style="width:147.75pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">City of Abbotsford Open Data<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Population data<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span class="SpellE"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Shapefile</span></span><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"> <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:4">
+  <td width="296" valign="top" style="width:147.75pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">City of Abbotsford Open Data<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Hospital data<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span class="SpellE"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Shapefile</span></span><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:5">
+  <td width="296" valign="top" style="width:147.75pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Agriculture and <span class="SpellE">Agri</span>-Canada<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">B.C. land use data<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Raster file <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:6">
+  <td width="296" valign="top" style="width:147.75pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">BC Open Data Catalogue<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Coastal water and river<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span class="SpellE"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Shapefile</span></span><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"> <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes">
+  <td width="296" valign="top" style="width:147.75pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">City of Abbotsford Open Data<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span class="SpellE"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Abbostford</span></span><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"> community planning data<o:p></o:p></span></p>
+  </td>
+  <td width="284" valign="top" style="width:142.1pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt">
+  <p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span class="SpellE"><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Shapefile</span></span><span lang="EN" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"> <o:p></o:p></span></p>
+  </td>
+ </tr>
+</tbody></table>
      
    Table 3. _Datasource and Metadata_
    

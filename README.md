@@ -39,6 +39,13 @@ Here are the detailed description of each feature:
      | Elevation |      5     |  5 |  1
 
      Table 1. _Weight matrix for analytical hierarchy process_
+     
+- **Multi-criteria evaluation (MCE)** focuses on combining the information from several criteria based on their weights to form a single index of output.We have reclassified all the parameters that we considered for flood risk mapping and assigned rating and weights based on previous study and AHP above.
+          ![image](https://user-images.githubusercontent.com/100981881/160201154-728b70fb-5b60-41c3-af39-6e921938111f.png)
+          Table 2. _Classes of criteria and corresponding weights used for mapping_
+  
+- **Software:** Arcmap desktop 10.8 is used to perform data processing, AHP and MCE analysis. ArcGIS online is used to create the web app and story map. Procreate is used for logo design.
+
 
 
 

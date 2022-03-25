@@ -18,7 +18,7 @@ There are three features included in this app: directions, analysis and near me.
 
 Here are the detailed description of each feature: 
 
-Directions![image](https://user-images.githubusercontent.com/100981881/160197963-fb884f90-b315-4589-a943-860af739f271.png)
+### Directions![image](https://user-images.githubusercontent.com/100981881/160197963-fb884f90-b315-4589-a943-860af739f271.png)
 - This feature allows users to find the best route between two points on the map. Users can also input locations by using their current location or entering addresses. 
 
 

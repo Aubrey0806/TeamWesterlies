@@ -74,7 +74,16 @@ WaterPortal (n.d.). Alberta WaterPortal | Environmental Impacts of Flooding. Alb
 
 10 Usability Heuristics for User Interface Design. (n.d.). Nielsen Norman Group. https://www.nngroup.com/articles/ten-usability-heuristics/
 
-     
+## Images Reference
+Azpiri, J. (2021, November 18). B.C. Flooding. Global News. https://globalnews.ca/news/8380118/b-c-flooding-abbotsford-rescue-by-water-air-heavy-flooding/
+Chandra, C. (2021, November 20). This Map Shows How Climate Change Could Flood Areas Across BC’s Lower Mainland. 604 Now. https://604now.com/climate-change-flood-map-vancouver-lower-mainland-bc-2021/
+
+Frontline-editor. (2020, January 6). Industrial Markets to Watch: West Abbotsford. Frontline Real Estate Services LTD. https://flre.ca/insights/industrial-markets-to-watch-west-abbotsford/
+
+Hopes, V. (2021a, November 6). City of Abbotsford to implement COVID-19 vaccination policy for staff. Mission City Record. https://www.missioncityrecord.com/news/city-of-abbotsford-to-implement-covid-19-vaccination-policy-for-staff/
+
+Hopes, V. (2021b, November 16). Woman on flight into Abbotsford captures aerial photos of flood devastation. Hope Standard. https://www.hopestandard.com/news/woman-on-flight-into-abbotsford-captures-aerial-photos-of-flood-devastation/
+
      
 
 

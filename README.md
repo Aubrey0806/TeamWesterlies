@@ -32,11 +32,11 @@ Here are the detailed description of each feature:
 ## Method and Calculation:
 - The Analytic Hierarchy Process (AHP)is an approach that allows criteria weight estimation relying on the experts’ view of the relative importance of criteria against another for flooding (Dash and Sar, 2020). We adopted the experts’s scoring for criteria weights from previous study.
 
-|    Parameter   |      Landuse      |  Slope |  Elevation
-|----------|-------------|------|------|
-| Landuse |      1     |  1/3 |  0.2
-| Slope |      3     |  1 |  0.2
-| Elevation |      5     |  5 |  1
+     |    Parameter   |      Landuse      |  Slope |  Elevation
+     |----------|-------------|------|------|
+     | Landuse |      1     |  1/3 |  0.2
+     | Slope |      3     |  1 |  0.2
+     | Elevation |      5     |  5 |  1
 
 Table 1. _Weight matrix for analytical hierarchy process_
 

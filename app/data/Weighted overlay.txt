@@ -1,0 +1,1 @@
+('Reclass_Lamb3' 10 'Value' (0 1; 1 3; 2 9; 3 2; 4 6;NODATA NODATA); 'Reclass_slop2' 20 'Value' (1 9; 2 7; 3 4; 4 2; 5 1;NODATA NODATA); 'Reclass_proj2' 70 'Value' (0 9; 1 8; 2 4; 3 1;NODATA NODATA));1 9 1

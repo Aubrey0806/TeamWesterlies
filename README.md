@@ -48,15 +48,7 @@ Here are the detailed description of each feature:
 - **Software:** Arcmap desktop 10.8 is used to perform data processing, AHP and MCE analysis. ArcGIS online is used to create the web app and story map. Procreate is used for logo design.
 
 ## Data Sets
-     |    Data Source   |      Data files      |  Data Format
-     |----------|-------------|------|
-     |  City of Abbotsford Open Data |  City boundary |  Shapefile 
-     |    BC Open Data Catalogue   |      Digital Elevation Model      |  Raster file 
-     |    City of Abbotsford Open Data   |      Population data     |  Shapefile 
-     |    City of Abbotsford Open Data   |      Hospital data      |  Shapefile
-     |    Agriculture and Agri-Canada   |      B.C. land use data      |  Raster file
-     |    BC Open Data Catalogue   |      Coastal water and river     |  Shapefile 
-     |    City of Abbotsford Open Data   |      Abbostford community planning data      |  Shapefile
+  
      
    Table 3. _Datasource and Metadata_
    

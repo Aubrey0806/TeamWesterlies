@@ -31,6 +31,8 @@ Here are the detailed description of each feature:
 - This feature can assist users to find the near-by evacuation centres by pinning a point on map or using their current locations. This feature can also provide the fastest travel route from the user's location to the nearby evacuation centres. 
 
 ## Method and Calculation:
+- **Software:** Arcmap desktop 10.8 is used to perform data processing, AHP and MCE analysis. ArcGIS online is used to create the web app and story map. Procreate is used for logo design.
+
 - **The Analytic Hierarchy Process (AHP)** is an approach that allows criteria weight estimation relying on the experts’ view of the relative importance of criteria against another for flooding (Dash and Sar, 2020). We adopted the experts’s scoring for criteria weights from previous study.
 
      |    Parameter   |      Landuse      |  Slope |  Elevation
@@ -351,8 +353,6 @@ Here are the detailed description of each feature:
      
   Table 2. _Classes of criteria and corresponding weights used for mapping_      
   
-  
-- **Software:** Arcmap desktop 10.8 is used to perform data processing, AHP and MCE analysis. ArcGIS online is used to create the web app and story map. Procreate is used for logo design.
   
 ## Data Sets
   <table class="a0" border="1" cellspacing="0" cellpadding="0" width="864" style="margin-left:41.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;

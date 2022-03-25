@@ -41,9 +41,349 @@ Here are the detailed description of each feature:
      Table 1. _Weight matrix for analytical hierarchy process_
      
 - **Multi-criteria evaluation (MCE)** focuses on combining the information from several criteria based on their weights to form a single index of output.We have reclassified all the parameters that we considered for flood risk mapping and assigned rating and weights based on previous study and AHP above.
-          ![image](https://user-images.githubusercontent.com/100981881/160201154-728b70fb-5b60-41c3-af39-6e921938111f.png)
+     <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="482" style="width:241.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.0pt">
+  <td width="136" nowrap="" style="width:68.0pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#D6DCE4;padding:0cm 5.4pt 0cm 5.4pt;
+  height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">Parameters<o:p></o:p></span></p>
+  </td>
+  <td width="138" nowrap="" style="width:69.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #D6DCE4;padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">Class<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #D6DCE4;padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">Rating<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #D6DCE4;padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">Weight<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:1;height:14.0pt">
+  <td width="136" nowrap="" rowspan="5" style="width:68.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-pagination:widow-orphan"><span class="SpellE"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:
+  等线;mso-fareast-font-family:等线;mso-hansi-font-family:等线;mso-bidi-font-family:
+  宋体;color:black;mso-font-kerning:0pt">Landuse</span></span><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt"><o:p></o:p></span></p>
+  </td>
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">0 (Other)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">1<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" rowspan="5" style="width:52.0pt;border-top:none;
+  border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">10%<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2;height:14.0pt">
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">1 (Urban)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">3<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3;height:14.0pt">
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">2 (Water)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">9<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:4;height:14.0pt">
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">3 (Forest)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">2<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:5;height:14.0pt">
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">4 (Agriculture)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">6<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:6;height:14.0pt">
+  <td width="136" nowrap="" rowspan="5" style="width:68.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">Slope (%)<o:p></o:p></span></p>
+  </td>
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">1 (0-2)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">9<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" rowspan="5" style="width:52.0pt;border-top:none;
+  border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">20%<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:7;height:14.0pt">
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">2 (2-5)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">7<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:8;height:14.0pt">
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">3 (5-15)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">4<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:9;height:14.0pt">
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">4 (15-35)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">2<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:10;height:14.0pt">
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">5 (&gt;35)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">1<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:11;height:14.0pt">
+  <td width="136" nowrap="" rowspan="4" style="width:68.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">Elevation (m)<o:p></o:p></span></p>
+  </td>
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">0 (-1-2)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">9<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" rowspan="4" style="width:52.0pt;border-top:none;
+  border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">70%<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:12;height:14.0pt">
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">1 (3-5)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">8<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:13;height:14.0pt">
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">2 (6-12)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">4<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:14;mso-yfti-lastrow:yes;height:14.0pt">
+  <td width="138" nowrap="" style="width:69.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">3 (13-912)<o:p></o:p></span></p>
+  </td>
+  <td width="104" nowrap="" style="width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.0pt">
+  <p class="MsoNormal" align="right" style="text-align:right;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:11.0pt;mso-ascii-font-family:等线;mso-fareast-font-family:
+  等线;mso-hansi-font-family:等线;mso-bidi-font-family:宋体;color:black;mso-font-kerning:
+  0pt">1<o:p></o:p></span></p>
+  </td>
+ </tr>
+</tbody></table>
           Table 2. _Classes of criteria and corresponding weights used for mapping_
-          (# 重做表格或resize image）
+       
   
 - **Software:** Arcmap desktop 10.8 is used to perform data processing, AHP and MCE analysis. ArcGIS online is used to create the web app and story map. Procreate is used for logo design.
 

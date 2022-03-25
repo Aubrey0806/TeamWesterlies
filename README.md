@@ -59,6 +59,21 @@ Here are the detailed description of each feature:
      |    City of Abbotsford Open Data   |      Abbostford community planning data      |  Shapefile
      
    Table 3. _Datasource and Metadata_
+   
+## References
+Dash, & Sar, J. (2020). Identification and validation of potential flood hazard area using GIS‐based multi‐criteria analysis and satellite data‐derived water index. Journal of Flood Risk Management, 13(3), n/a–n/a. https://doi.org/10.1111/jfr3.12620
+
+Flood Preparation | City of Abbotsford. (n.d.). City of Abbotsford. https://www.abbotsford.ca/public-safety/emergency-program/flood-preparation
+
+Home | City of Abbotsford. (n.d.). City of Abbotsford. https://www.abbotsford.ca/
+Pearson, C. (2018, May 13). Defining usability - Prototypr. Medium. https://blog.prototypr.io/defining-usability-e7bf42e8abd0
+
+The Canadian Press, & Weber, B. (2022, February 16). Climate change made B.C. floods at least twice as likely, Environment Canada study suggests. British Columbia. https://bc.ctvnews.ca/climate-change-made-b-c-floods-at-least-twice-as-likely-environment-canada-study-suggests-1.5784287
+
+WaterPortal (n.d.). Alberta WaterPortal | Environmental Impacts of Flooding. Alberta Water Portal Society. https://albertawater.com/what-are-the-consequences-of-flooding/environmental/
+
+10 Usability Heuristics for User Interface Design. (n.d.). Nielsen Norman Group. https://www.nngroup.com/articles/ten-usability-heuristics/
+
      
      
 

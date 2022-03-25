@@ -29,6 +29,9 @@ Here are the detailed description of each feature:
 ### Near me ![image](https://user-images.githubusercontent.com/100981881/160198808-f1834e74-aae3-410b-b70f-cc49019207db.png)
 - This feature can assist users to find the near-by evacuation centres by pinning a point on map or using their current locations. This feature can also provide the fastest travel route from the user's location to the nearby evacuation centres. 
 
+## Method and Calculation:
+- ### The Analytic Hierarchy Process (AHP) 
+
 
 
 

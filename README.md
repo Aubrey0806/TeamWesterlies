@@ -30,7 +30,13 @@ Here are the detailed description of each feature:
 - This feature can assist users to find the near-by evacuation centres by pinning a point on map or using their current locations. This feature can also provide the fastest travel route from the user's location to the nearby evacuation centres. 
 
 ## Method and Calculation:
-- ### The Analytic Hierarchy Process (AHP) 
+- ### The Analytic Hierarchy Process (AHP) is an approach that allows criteria weight estimation relying on the experts’ view of the relative importance of criteria against another for flooding (Dash and Sar, 2020). We adopted the experts’s scoring for criteria weights from previous study.
+|    Parameter   |      Landuse      |  Slope |  Elevation
+|----------|-------------|------|------|
+| Landuse |      1     |  1/3 |  0.2
+| Slope |      3     |  1 |  0.2
+| Elevation |      5     |  5 |  1
+Table 1. Weight matrix for analytical hierarchy process
 
 
 

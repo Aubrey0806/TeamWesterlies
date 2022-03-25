@@ -10,5 +10,17 @@ Flooding refers to overflowing of water onto land that is normally dry due to he
 Faster River basin located in B.C. is one of the largest river basins in Western Canada. The average temperature of Fraser River is 11°C, and the average monthly precipitation is around 66.5 mm (Timeanddate.com, 2021). The ongoing climate change have significantly increase the precipitation level in B.C. which result in higher frequency of flooding along Fraser River. 
 Abbotsford experienced catastrophic flooding due to a heavy precipitation of 500mm in November, 2021. As a result, nearly 15,000 people were forced to leave their home, major roads and bridges were washed away, and farms were flooded with water up to two meters deep. Furthermore, the following landslides killed at least five people. Financial losses were estimated at $450 million includes 600,000 chickens and 12,000 pigs died (Weber, 2022).
 
+The mission of our project is to we create a story map to illustrate the high risk of flooding area in Abbotsford and educate the target audience about the emergency response plan of flooding. Team Westerlies aims to support the local community’ sustainable developing by increasing the resilience to floods of residents through our storymap. Also, the web app allows user to plan evacuation routes and check the nearby emergency responders such as hospitals before the floods which can significantly reduce casualty and economic loss.
+## App description and features:
+Thie Web App is designed to perform flood risk analysis in the city of Abbotsford in B.C. The App provides a "level index" showing areas in Abbotsford that are at risk to future flooding events, ranking them from the lowest level flooding risk "level 1" to the highest flooding risk "level 3". On the map, areas within Abbotsford city that don't have colours overlaid have very low risks of floods, therefore are considered as safe areas in this app.
+
+There are three features included in this app: directions, analysis and near me. With the help of these three features, the users can enhance their using experience and obtain more information, such as where and how to evacuate during a flood. 
+
+Here are the detailed description of each feature: 
+
+Directions （![image](https://user-images.githubusercontent.com/100981881/160197963-fb884f90-b315-4589-a943-860af739f271.png)
+- This feature allows users to find the best route between two points on the map. Users can also input locations by using their current location or entering addresses. 
+
+
 
 

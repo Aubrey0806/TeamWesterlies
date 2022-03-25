@@ -84,6 +84,13 @@ Hopes, V. (2021a, November 6). City of Abbotsford to implement COVID-19 vaccinat
 
 Hopes, V. (2021b, November 16). Woman on flight into Abbotsford captures aerial photos of flood devastation. Hope Standard. https://www.hopestandard.com/news/woman-on-flight-into-abbotsford-captures-aerial-photos-of-flood-devastation/
 
+Lypka, B. (2021, November 16). VIDEO & PHOTOS: Aerial tour of flood damage to Abbotsford. Abbotsford News. https://www.abbynews.com/news/video-photos-aerial-tour-of-flood-damage-to-abbotsford/
+
+Sheehy, F., Guest, P., & Watson, C. (2021, December 2). How bad is the British Columbia and Pacific north-west flooding and what caused it? The Guardian. https://www.theguardian.com/environment/2021/nov/17/pacific-north-west-flooding-british-columbia-washington-state-canada
+
+Verenca, T. (2021, November 25). New satellite imagery shows Sumas Prairie flood, before and after. Victoria Times Colonist. https://www.timescolonist.com/bc-news/new-satellite-imagery-shows-sumas-prairie-flood-before-and-after-4795007
+
+
      
 
 

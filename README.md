@@ -351,8 +351,9 @@ Here are the detailed description of each feature:
      
   Table 2. _Classes of criteria and corresponding weights used for mapping_      
   
-- **Software** Arcmap desktop 10.8 is used to perform data processing, AHP and MCE analysis. ArcGIS online is used to create the web app and story map. Procreate is used for logo design.
-
+  
+- **Software:** Arcmap desktop 10.8 is used to perform data processing, AHP and MCE analysis. ArcGIS online is used to create the web app and story map. Procreate is used for logo design.
+  
 ## Data Sets
   <table class="a0" border="1" cellspacing="0" cellpadding="0" width="864" style="margin-left:41.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:

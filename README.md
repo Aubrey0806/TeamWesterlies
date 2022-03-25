@@ -18,8 +18,19 @@ There are three features included in this app: directions, analysis and near me.
 
 Here are the detailed description of each feature: 
 
-### Directions![image](https://user-images.githubusercontent.com/100981881/160197963-fb884f90-b315-4589-a943-860af739f271.png)
+### Directions ![image](https://user-images.githubusercontent.com/100981881/160197963-fb884f90-b315-4589-a943-860af739f271.png)
 - This feature allows users to find the best route between two points on the map. Users can also input locations by using their current location or entering addresses. 
+
+### Analysis ![image](https://user-images.githubusercontent.com/100981881/160198557-ce6e67f2-d096-477d-b971-a7f272c9633e.png)
+- This feature contains two sub-functions allowing users to perform more analysis based on their needs. 
+- The first function is "buffer", users can create buffers around the area of their interests, for instance, distance buffer around the hospital or the evacuation centres. 
+- The second function is "drive-time areas" which allows users to create an area around their point of interests with a real-life driving time, for example 5 mins/10 mins.
+
+### Near me ![image](https://user-images.githubusercontent.com/100981881/160198808-f1834e74-aae3-410b-b70f-cc49019207db.png)
+- This feature can assist users to find the near-by evacuation centres by pinning a point on map or using their current locations. This feature can also provide the fastest travel route from the user's location to the nearby evacuation centres. 
+
+
+
 
 
 

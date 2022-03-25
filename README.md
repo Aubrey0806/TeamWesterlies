@@ -43,10 +43,23 @@ Here are the detailed description of each feature:
 - **Multi-criteria evaluation (MCE)** focuses on combining the information from several criteria based on their weights to form a single index of output.We have reclassified all the parameters that we considered for flood risk mapping and assigned rating and weights based on previous study and AHP above.
           ![image](https://user-images.githubusercontent.com/100981881/160201154-728b70fb-5b60-41c3-af39-6e921938111f.png)
           Table 2. _Classes of criteria and corresponding weights used for mapping_
+          (#重做表格或resize image）
   
 - **Software:** Arcmap desktop 10.8 is used to perform data processing, AHP and MCE analysis. ArcGIS online is used to create the web app and story map. Procreate is used for logo design.
 
-
+## Data Sets
+     |    Data Source   |      Data files      |  Data Format
+     |    City of Abbotsford Open Data   |      City boundary      |  Shapefile 
+     |    BC Open Data Catalogue   |      Digital Elevation Model      |  Raster file 
+     |    City of Abbotsford Open Data   |      Population data     |  Shapefile 
+     |    City of Abbotsford Open Data   |      Hospital data      |  Shapefile
+     |    Agriculture and Agri-Canada   |      B.C. land use data      |  Raster file
+     |    BC Open Data Catalogue   |      Coastal water and river     |  Shapefile 
+     |    City of Abbotsford Open Data   |      Abbostford community planning data      |  Shapefile
+     
+     Table 3. _Datasource and Metadata_
+     
+     
 
 
 

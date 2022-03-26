@@ -4,4 +4,4 @@ Hosted on GitHub:
   
 Hosted in ArcGIS Online:
 
- - Main web app: https://simonfraseru.maps.arcgis.com/apps/webappviewer/index.html?id=78985d07d2bd491eb58e4ec927f6dd45
+ - Main web app: https://www.arcgis.com/apps/webappviewer/index.html?id=78985d07d2bd491eb58e4ec927f6dd45
